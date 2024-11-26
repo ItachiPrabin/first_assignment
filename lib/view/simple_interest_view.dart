@@ -78,7 +78,7 @@ class _SimpleInterestState extends State<SimpleInterest> {
                     result = (principle * rate * time) / 100;
                   });
                 },
-                child: const Text('SimpleInterest Calculation'),
+                child: const Text('Simple Interest Calculation'),
               ),
             ),
             const SizedBox(
